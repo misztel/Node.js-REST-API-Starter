@@ -4,11 +4,11 @@ Node.js REST-API starter project
 
 ### Description
 
-Server based on Express.js,
-MongoDB connection with Mongoose,
-Validation with express-validator,
-Image upload configured with multer,
-Authentication with Json Web Token and bcrypt
+- Server based on Express.js,
+- MongoDB connection with Mongoose,
+- Validation with express-validator,
+- Image upload configured with multer,
+- Authentication with Json Web Token and bcrypt
 
 ### Requirements
 
