@@ -18,11 +18,11 @@ Authentication with Json Web Token and bcrypt
 
 ### Installation
 
-1. Clone the git repository and run:
+Clone the git repository and run:
 
-   npm install
+    npm install
 
-2. Create MongoDB database and update .env file with given details.
+Create MongoDB database and update .env file with given details.
 
 ### How to use it
 
