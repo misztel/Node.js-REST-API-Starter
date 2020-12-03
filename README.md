@@ -1,6 +1,6 @@
 # Node.js-REST-API-Starter
 
-Node.js REST-API starter project
+# Node.js REST-API starter project
 
 ### Description
 
